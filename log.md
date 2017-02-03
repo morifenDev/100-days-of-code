@@ -8,22 +8,24 @@
 
 **Link to work:** [My Pimped Terminal](https://goo.gl/photos/smdKRyNHJvfUdzCk8)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: February 2, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Finish Learn Git.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: Ever have a "I lost all my work and I have a deadline the next day" moment? Git is the most popular version control tool - something that developers use to save all relevant versions of their work to avoid moments like those. Git also makes it easy for developers to collaborate and share work with others!
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 2: February 3, 2017
 
+**Today's Progress**: Basic HTML and HTML5 at FreeCodeCamp.
 
-### Day 1: June 27, Monday
+**Thoughts** Spent 3 hours to complete HTML5 course. Now, whith CSS, I've just 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Link(s) to work** [morifendev's code portfolio](http://beta.freecodecamp.com/en/morifendev)
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+### Day 2: February 3, 2017
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Today's Progress**: Basic CSS at FreeCodeCamp.
+
+**Thoughts** Spent 3 hours to complete HTML5 course. Now, whith CSS, I've just 
+
+**Link(s) to work** [morifendev's code portfolio](http://beta.freecodecamp.com/en/morifendev)
